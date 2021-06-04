@@ -1,0 +1,48 @@
+{
+    "bookSourceUrl": "http://www.dybz77.com",
+    "bookSourceType": "0",
+    "bookSourceName": "第一版主77(๑>؂<๑）",
+    "bookSourceGroup": "18禁",
+    "bookSourceComment": "哪天网站不能访问了，打开01bz.com，找能访问的地址替换源URL\n打开浏览器粘贴https://cdn.jsdelivr.net/gh/orzend/books/dybz77.txt,全选复制,粘贴书源\n书源规则更新于2021年6月5日",
+    "loginUrl": "",
+    "bookUrlPattern": "",
+    "header": "",
+    "searchUrl": "/s.php,{\n\"charset\": \"gbk\",\n\"method\": \"POST\",\n\"body\":\"objectType=2&type=articlename&s={{key}}\"\n}",
+    "exploreUrl": "小说章节越多,初次加载目录速度越慢::\n🚫小说状态---连载中🚫::\n             新书            🚫::\n玄幻奇幻::/shuku/1-postdate-1-{{page}}.html\n仙侠武侠::/shuku/2-postdate-1-{{page}}.html\n都市言情::/shuku/3-postdate-1-{{page}}.html\n穿越历史::/shuku/4-postdate-1-{{page}}.html\n科幻灵异::/shuku/5-postdate-1-{{page}}.html\n藏经阁::/shuku/6-postdate-1-{{page}}.html\n其他类别::/shuku/7-postdate-1-{{page}}.html\n             月人气             🚫::\n玄幻奇幻::/shuku/1-monthvisit-1-{{page}}.html\n仙侠武侠::/shuku/2-monthvisit-1-{{page}}.html\n都市言情::/shuku/3-monthvisit-1-{{page}}.html\n穿越历史::/shuku/4-monthvisit-1-{{page}}.html\n科幻灵异::/shuku/5-monthvisit-1-{{page}}.html\n藏经阁::/shuku/6-monthvisit-1-{{page}}.html\n其他类别::/shuku/7-monthvisit-1-{{page}}.html\n             总人气             🚫::\n玄幻奇幻::/shuku/1-allvisit-1-{{page}}.html\n仙侠武侠::/shuku/2-allvisit-1-{{page}}.html\n都市言情::/shuku/3-allvisit-1-{{page}}.html\n穿越历史::/shuku/4-allvisit-1-{{page}}.html\n科幻灵异::/shuku/5-allvisit-1-{{page}}.html\n藏经阁::/shuku/6-allvisit-1-{{page}}.html\n其他类别::/shuku/7-allvisit-1-{{page}}.html\n             最后更新            🚫::\n玄幻奇幻::/shuku/1-lastupdate-1-{{page}}.html\n仙侠武侠::/shuku/2-lastupdate-1-{{page}}.html\n都市言情::/shuku/3-lastupdate-1-{{page}}.html\n穿越历史::/shuku/4-lastupdate-1-{{page}}.html\n科幻灵异::/shuku/5-lastupdate-1-{{page}}.html\n藏经阁::/shuku/6-lastupdate-1-{{page}}.html\n其他类别::/shuku/7-lastupdate-1-{{page}}.html\n             字数            🚫::\n玄幻奇幻::/shuku/1-size-1-{{page}}.html\n仙侠武侠::/shuku/2-size-1-{{page}}.html\n都市言情::/shuku/3-size-1-{{page}}.html\n穿越历史::/shuku/4-size-1-{{page}}.html\n科幻灵异::/shuku/5-size-1-{{page}}.html\n藏经阁::/shuku/6-size-1-{{page}}.html\n其他类别::/shuku/7-size-1-{{page}}.html\n🚫小说状态---已完本🚫::\n             新书            🚫::\n玄幻奇幻::/shuku/1-postdate-2-{{page}}.html\n仙侠武侠::/shuku/2-postdate-2-{{page}}.html\n都市言情::/shuku/3-postdate-2-{{page}}.html\n穿越历史::/shuku/4-postdate-2-{{page}}.html\n科幻灵异::/shuku/5-postdate-2-{{page}}.html\n藏经阁::/shuku/6-postdate-2-{{page}}.html\n其他类别::/shuku/7-postdate-2-{{page}}.html\n             月人气             🚫::\n玄幻奇幻::/shuku/1-monthvisit-2-{{page}}.html\n仙侠武侠::/shuku/2-monthvisit-2-{{page}}.html\n都市言情::/shuku/3-monthvisit-2-{{page}}.html\n穿越历史::/shuku/4-monthvisit-2-{{page}}.html\n科幻灵异::/shuku/5-monthvisit-2-{{page}}.html\n藏经阁::/shuku/6-monthvisit-2-{{page}}.html\n其他类别::/shuku/7-monthvisit-2-{{page}}.html\n             总人气             🚫::\n玄幻奇幻::/shuku/1-allvisit-2-{{page}}.html\n仙侠武侠::/shuku/2-allvisit-2-{{page}}.html\n都市言情::/shuku/3-allvisit-2-{{page}}.html\n穿越历史::/shuku/4-allvisit-2-{{page}}.html\n科幻灵异::/shuku/5-allvisit-2-{{page}}.html\n藏经阁::/shuku/6-allvisit-2-{{page}}.html\n其他类别::/shuku/7-allvisit-2-{{page}}.html\n             最后更新            🚫::\n玄幻奇幻::/shuku/1-lastupdate-2-{{page}}.html\n仙侠武侠::/shuku/2-lastupdate-2-{{page}}.html\n都市言情::/shuku/3-lastupdate-2-{{page}}.html\n穿越历史::/shuku/4-lastupdate-2-{{page}}.html\n科幻灵异::/shuku/5-lastupdate-2-{{page}}.html\n藏经阁::/shuku/6-lastupdate-2-{{page}}.html\n其他类别::/shuku/7-lastupdate-2-{{page}}.html\n             字数            🚫::\n玄幻奇幻::/shuku/1-size-2-{{page}}.html\n仙侠武侠::/shuku/2-size-2-{{page}}.html\n都市言情::/shuku/3-size-2-{{page}}.html\n穿越历史::/shuku/4-size-2-{{page}}.html\n科幻灵异::/shuku/5-size-2-{{page}}.html\n藏经阁::/shuku/6-size-2-{{page}}.html\n其他类别::/shuku/7-size-2-{{page}}.html\n🚫小说状态---全部🚫::\n             新书            🚫::\n玄幻奇幻::/shuku/1-postdate-0-{{page}}.html\n仙侠武侠::/shuku/2-postdate-0-{{page}}.html\n都市言情::/shuku/3-postdate-0-{{page}}.html\n穿越历史::/shuku/4-postdate-0-{{page}}.html\n科幻灵异::/shuku/5-postdate-0-{{page}}.html\n藏经阁::/shuku/6-postdate-0-{{page}}.html\n其他类别::/shuku/7-postdate-0-{{page}}.html\n             月人气             🚫::\n玄幻奇幻::/shuku/1-monthvisit-0-{{page}}.html\n仙侠武侠::/shuku/2-monthvisit-0-{{page}}.html\n都市言情::/shuku/3-monthvisit-0-{{page}}.html\n穿越历史::/shuku/4-monthvisit-0-{{page}}.html\n科幻灵异::/shuku/5-monthvisit-0-{{page}}.html\n藏经阁::/shuku/6-monthvisit-0-{{page}}.html\n其他类别::/shuku/7-monthvisit-0-{{page}}.html\n             总人气             🚫::\n玄幻奇幻::/shuku/1-allvisit-0-{{page}}.html\n仙侠武侠::/shuku/2-allvisit-0-{{page}}.html\n都市言情::/shuku/3-allvisit-0-{{page}}.html\n穿越历史::/shuku/4-allvisit-0-{{page}}.html\n科幻灵异::/shuku/5-allvisit-0-{{page}}.html\n藏经阁::/shuku/6-allvisit-0-{{page}}.html\n其他类别::/shuku/7-allvisit-0-{{page}}.html\n             最后更新            🚫::\n玄幻奇幻::/shuku/1-lastupdate-0-{{page}}.html\n仙侠武侠::/shuku/2-lastupdate-0-{{page}}.html\n都市言情::/shuku/3-lastupdate-0-{{page}}.html\n穿越历史::/shuku/4-lastupdate-0-{{page}}.html\n科幻灵异::/shuku/5-lastupdate-0-{{page}}.html\n藏经阁::/shuku/6-lastupdate-0-{{page}}.html\n其他类别::/shuku/7-lastupdate-0-{{page}}.html\n             字数            🚫::\n玄幻奇幻::/shuku/1-size-0-{{page}}.html\n仙侠武侠::/shuku/2-size-0-{{page}}.html\n都市言情::/shuku/3-size-0-{{page}}.html\n穿越历史::/shuku/4-size-0-{{page}}.html\n科幻灵异::/shuku/5-size-0-{{page}}.html\n藏经阁::/shuku/6-size-0-{{page}}.html\n其他类别::/shuku/7-size-0-{{page}}.html\n\n",
+    "enabled": true,
+    "enabledExplore": true,
+    "weight": 0,
+    "customOrder": 0,
+    "lastUpdateTime": 1622836456160,
+    "ruleSearch": {
+        "bookList": ".column-2",
+        "name": ".name@text",
+        "author": ".info@text##字数(.*)",
+        "wordCount": ".words@text",
+        "lastChapter": ".update@text",
+        "bookUrl": ".name@href"
+    },
+    "ruleExplore": {
+        "bookList": ".column-2",
+        "name": ".name@text",
+        "author": ".info@text##字数(.*)",
+        "wordCount": ".words@text",
+        "lastChapter": ".update@text",
+        "bookUrl": ".name@href"
+    },
+    "ruleBookInfo": {
+        "kind": ".status@text&&.info@textNodes##(作者|字数).*|(类型：)",
+        "intro": ".book-intro@text"
+    },
+    "ruleToc": {
+        "chapterList": "class.list.1@tag.li",
+        "chapterName": "text",
+        "chapterUrl": "a@href",
+        "nextTocUrl": ".nextPage@href"
+    },
+    "ruleContent": {
+        "content": ".page-content p@html\n<js>\nlet un=[];\nlet server=\"https://dyzb77.jsonserver.workers.dev/posts\";\nlet url=\"https://cdn.jsdelivr.net/gh/orzend/books/dybz77.json\";\nlet obj=JSON.parse(java.ajax(url));\nresult=result.replace(/<img src=\"(.+?)\">/g,(html,text)=>{\ncode='#'+text.substring(12,22)+'#'\ntext=obj[code]\nif(!text){\ntext=code;\n//java.log(\"未收录\"+code);\nun.push(code);\n}\nreturn text\n})\nif(un.length!=0){\nbody=un;\n//java.log(un)\npost={\n    method:\"POST\",\n    body:String(body),\n    };\njava.ajax(server+\",\" + JSON.stringify(post))}\n</js>",
+        "nextContentUrl": ".chapterPages a~a@href",
+        "replaceRegex": "##(，|[\\u4e00-\\u9fa5])\\n\\s{2}##$1"
+    }
+}
