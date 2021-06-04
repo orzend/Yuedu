@@ -3,7 +3,7 @@
     "bookSourceType": "0",
     "bookSourceName": "第一版主77(๑>؂<๑）",
     "bookSourceGroup": "18禁",
-    "bookSourceComment": "哪天网站不能访问了，打开01bz.com，找能访问的地址替换源URL\n打开浏览器粘贴https://cdn.jsdelivr.net/gh/orzend/books/dybz77.txt,全选复制,粘贴书源\n书源规则更新于2021年6月5日",
+    "bookSourceComment": "哪天网站不能访问了，打开01bz.com，找能访问的地址替换源URL\n打开浏览器粘贴https://cdn.jsdelivr.net/gh/orzend/Yuedu/dybz77.txt,全选复制,粘贴书源\n书源规则更新于2021年6月5日",
     "loginUrl": "",
     "bookUrlPattern": "",
     "header": "",
@@ -41,7 +41,7 @@
         "nextTocUrl": ".nextPage@href"
     },
     "ruleContent": {
-        "content": ".page-content p@html\n<js>\nlet un=[];\nlet server=\"https://dyzb77.jsonserver.workers.dev/posts\";\nlet url=\"https://cdn.jsdelivr.net/gh/orzend/books/dybz77.json\";\nlet obj=JSON.parse(java.ajax(url));\nresult=result.replace(/<img src=\"(.+?)\">/g,(html,text)=>{\ncode='#'+text.substring(12,22)+'#'\ntext=obj[code]\nif(!text){\ntext=code;\n//java.log(\"未收录\"+code);\nun.push(code);\n}\nreturn text\n})\nif(un.length!=0){\nbody=un;\n//java.log(un)\npost={\n    method:\"POST\",\n    body:String(body),\n    };\njava.ajax(server+\",\" + JSON.stringify(post))}\n</js>",
+        "content": ".page-content p@html\n<js>\nlet un=[];\nlet server=\"https://dyzb77.jsonserver.workers.dev/posts\";\nlet url=\"https://cdn.jsdelivr.net/gh/orzend/yuedu/dybz77.json\";\nlet obj=JSON.parse(java.ajax(url));\nresult=result.replace(/<img src=\"(.+?)\">/g,(html,text)=>{\ncode='#'+text.substring(12,22)+'#'\ntext=obj[code]\nif(!text){\ntext=code;\n//java.log(\"未收录\"+code);\nun.push(code);\n}\nreturn text\n})\nif(un.length!=0){\nbody=un;\n//java.log(un)\npost={\n    method:\"POST\",\n    body:String(body),\n    };\njava.ajax(server+\",\" + JSON.stringify(post))}\n</js>",
         "nextContentUrl": ".chapterPages a~a@href",
         "replaceRegex": "##(，|[\\u4e00-\\u9fa5])\\n\\s{2}##$1"
     }
